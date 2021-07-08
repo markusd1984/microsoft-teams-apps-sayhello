@@ -68,7 +68,7 @@
     "Description": "The app (and bot) display name."
   },
   "appDescription": {
-    "Value": "Say Hello is a bot that randomly pairs colleagues each month to help encourage cross firm networking and collaboration.",
+    "Value": "Say Hello is a bot that randomly pairs colleagues each month to help encourage cross firm networking and collaboration.  Click on below link 'Terms of use' to find out more.",
     "Description": "The app (and bot) description."
   },
   "appIconUrl": {
