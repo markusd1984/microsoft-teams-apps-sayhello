@@ -230,7 +230,7 @@
     <comment>This is the tour pairing task module header text</comment>
   </data>
   <data name="TourWelcomeBodyText" xml:space="preserve">
-    <value>Every week, I'll pair you with someone new. If you have the inclination that week, you can meet up--grab a lunch, or a call if you're in different locations. Look out for another message in which I'll pair you with your first pairing.</value>
+    <value>Every month, I'll pair you with someone new. If you have the inclination that month, you can meet up--grab a lunch, or a call if you're in different locations. Look out for another message in which I'll pair you with your first pairing.</value>
     <comment>This is the tour welcome body text</comment>
   </data>
   <data name="TourWelcomeHeaderText" xml:space="preserve">
