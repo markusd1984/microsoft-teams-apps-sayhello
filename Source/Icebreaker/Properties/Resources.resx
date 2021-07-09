@@ -214,11 +214,11 @@
     <comment>This is the text for the salutation in the adaptive cards when the bot is installed to a team and also when new users are added to the team</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
-    <value>Take a tour</value>
+    <value>More info</value>
     <comment>The text for the button which launches a tour when clicked</comment>
   </data>
   <data name="TourContentPageTitleText" xml:space="preserve">
-    <value>Tour</value>
+    <value>Info</value>
     <comment>This is the tour content page title text</comment>
   </data>
   <data name="TourpairingsBodyText" xml:space="preserve">
@@ -242,11 +242,11 @@
     <comment>This is the tour welcome image alt text</comment>
   </data>
   <data name="UnrecognizedInput" xml:space="preserve">
-    <value>I'm sorry, but I can't process the incoming message. You can take a tour, though, to learn more about my functionality.</value>
+    <value>I'm sorry, but I can't process the incoming message. You can view more info, though, to learn more about my functionality.</value>
     <comment>The text for the unrecognized input scenario</comment>
   </data>
   <data name="WelcomeTourTitle" xml:space="preserve">
-    <value>Tour</value>
+    <value>Info</value>
     <comment>This is the title of the tour for the Icebreaker Bot</comment>
   </data>
 </root>
