@@ -88,7 +88,7 @@
     "Description": "The https:// URL to the company's privacy policy."
   },
   "termsOfUseUrl": {
-    "Value": "https://intranet.gti.int/bu/hr/SitePages/Say-Hello.aspx",
+    "Value": "https://intranet.gti.int/bu/hr/SitePages/Say%20Hello.aspx",
     "Description": "The https:// URL to the company's terms of use."
   }
 }
