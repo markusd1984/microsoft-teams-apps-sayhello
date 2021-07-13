@@ -8,7 +8,7 @@
     "Description": "Id of the tenant to deploy to (If you are not sure how to get Tenant ID, please check Azure Active Directory in Azure Portal. Under Manage, click Properties. The tenant ID is shown in the Directory ID box). e.g 98f3ece2-3a5a-428b-aa4f-4c41b3f6eef0. Tenant ID is also in the \"Overview\" section\""
   },
   "resourceGroupName": {
-    "Value": "RG-APP-ICEBREAKER-V8",
+    "Value": "RG-APP-ICEBREAKER-V9",
     "Description": "Resource Group"
   },
   "location": {
@@ -68,7 +68,7 @@
     "Description": "The app (and bot) display name."
   },
   "appDescription": {
-    "Value": "Say Hello is a bot that randomly pairs colleagues each month to help encourage cross firm networking and collaboration.  Click on below link 'Terms of use' to find out more.",
+    "Value": "Say Hello is a bot that randomly pairs colleagues each month to help encourage cross firm networking and collaboration. Click on the below link 'Terms of use' to find out more.",
     "Description": "The app (and bot) description."
   },
   "appIconUrl": {
@@ -80,7 +80,7 @@
     "Description": "The display name for the company."
   },
   "websiteUrl": {
-    "Value": "https://www.grantthornton.ie",
+    "Value": "https://intranet.gti.int/bu/hr/SitePages/Say%20Hello.aspx",
     "Description": "The https:// URL to the company's website. This link should take users to your company or product-specific landing page."
   },
   "privacyUrl": {
