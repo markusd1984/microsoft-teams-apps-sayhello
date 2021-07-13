@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -121,7 +121,7 @@
     <value>Back</value>
     <comment>This is the back button text</comment>
   </data>
-  <data name="ChatWithpairingButtonText" xml:space="preserve">
+  <data name="ChatWithMatchButtonText" xml:space="preserve">
     <value>Chat with {0}</value>
     <comment>Button text to initiate a chat with the person the user has been paired up with</comment>
   </data>
@@ -161,19 +161,19 @@
     <value>You will be notified by MS Teams message of your pairing on the first Wednesday of every month @10am. To opt out of **Say Hello**, simply click on ‘Pause Pairings’, you can resume whenever you feel like it.</value>
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
-  <data name="pairingUpCardContentPart1" xml:space="preserve">
+  <data name="MatchUpCardContentPart1" xml:space="preserve">
     <value>Hi there again, I'm **Say Hello** from the '{1}' team. A bot that pairs you with a new coworker to meet each month. This month your pairing is {2}.</value>
     <comment>First part of the pairing up card main content</comment>
   </data>
-  <data name="pairingUpCardContentPart2" xml:space="preserve">
-    <value></value>
+  <data name="MatchUpCardContentPart2" xml:space="preserve">
+    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
     <comment>Second part of the pairing up card main content</comment>
   </data>
-  <data name="pairingUpCardpairingedText" xml:space="preserve">
+  <data name="MatchUpCardMatchedText" xml:space="preserve">
     <value>It’s time to grow your internal network and **Say Hello!** This month, you’ve been paired with {0}. **Say Hello** to {0} and set up some time to chat!</value>
     <comment>The text saying who the user has been paired up with</comment>
   </data>
-  <data name="pairingUpCardTitleContent" xml:space="preserve">
+  <data name="MatchUpCardTitleContent" xml:space="preserve">
     <value>It's time for a pairing!</value>
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
@@ -221,11 +221,11 @@
     <value>Info</value>
     <comment>This is the tour content page title text</comment>
   </data>
-  <data name="TourpairingsBodyText" xml:space="preserve">
+  <data name="TourMatchesBodyText" xml:space="preserve">
     <value>Pause pairings whenever you need. Too busy that month? Out of the office? No problem. Just click the button at anytime.</value>
     <comment>This is the tour pairing task module body text</comment>
   </data>
-  <data name="TourpairingsHeaderText" xml:space="preserve">
+  <data name="TourMatchesHeaderText" xml:space="preserve">
     <value>Easily pause pairings as needed</value>
     <comment>This is the tour pairing task module header text</comment>
   </data>
