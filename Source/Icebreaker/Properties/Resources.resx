@@ -138,11 +138,11 @@
     <comment>A generic message that is sent when there is an error occurring</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart1" xml:space="preserve">
-    <value>Hi there, Welcome to Grant Thornton’s Say Hello initiative which is all about getting to know and collaborating with your colleagues.</value>
+    <value>Hi there, Welcome to Grant Thornton’s **Say Hello** initiative which is all about getting to know your colleagues.</value>
     <comment>Install message and also the welcome message when the app installer is known - {0} is the placeholder for the name of the user that has installed the app to the team, and {1} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart2" xml:space="preserve">
-    <value>**Say Hello** will pair you randomly with someone different from the firm each month who you will have a 10 minute chat with at a time that suits you both.</value>
+    <value>**Say Hello** will pair you randomly with someone different each month who you will have a 10 minute chat with at a time that suits you both.</value>
     <comment>Part 2 of the install message when the name of the installer is known</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart3" xml:space="preserve">
@@ -162,19 +162,19 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, I'm **Say Hello** from the '{1}' team. A bot that pairs you with a new coworker to meet each month. This month your pairing is {2}.</value>
+    <value>**Say Hello** is a bot in the '{1}' team, that pairs you with a new coworker to meet each month. **Say Hello** to {2} and set up some time to chat!</value>
     <comment>First part of the pairing up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
+    <value></value>
     <comment>Second part of the pairing up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
-    <value>It’s time to grow your internal network and **Say Hello!** This month, you’ve been paired with {0}. **Say Hello** to {0} and set up some time to chat!</value>
+    <value>This month you have been paired with **{0}**.</value>
     <comment>The text saying who the user has been paired up with</comment>
   </data>
   <data name="MatchUpCardTitleContent" xml:space="preserve">
-    <value>It's time for a pairing!</value>
+    <value>It’s time to grow your internal network and Say Hello!</value>
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
@@ -230,11 +230,11 @@
     <comment>This is the tour pairing task module header text</comment>
   </data>
   <data name="TourWelcomeBodyText" xml:space="preserve">
-    <value>Every month, I'll pair you with someone new. If you have the inclination that month, you can meet up--grab a lunch, or a call if you're in different locations. Look out for another message in which I'll pair you with your first pairing.</value>
+    <value>Every month, You'll be paired with someone new. If you have the inclination that month, you can meet up--grab a lunch, or a call if you're in different locations. Look out for another message in which I'll pair you with your first pairing.</value>
     <comment>This is the tour welcome body text</comment>
   </data>
   <data name="TourWelcomeHeaderText" xml:space="preserve">
-    <value>Make new friends and build community with them</value>
+    <value>Grow your internal network in Grant Thornton</value>
     <comment>This is the tour welcome header text</comment>
   </data>
   <data name="TourWelcomeImageAltText" xml:space="preserve">
