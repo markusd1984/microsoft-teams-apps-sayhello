@@ -162,7 +162,7 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>**Say Hello** is a bot in the '{1}' team, that pairs you with a new coworker to meet each month. **Say Hello** to {2} and set up some time to chat!</value>
+    <value>**Say Hello** is a bot in the '{1}' team, that pairs you with someone different each month who you will have a 10 minute chat with at a time that suits you both. **Say Hello** to {2} and set up some time to chat!</value>
     <comment>First part of the pairing up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
