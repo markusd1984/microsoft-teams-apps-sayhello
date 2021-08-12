@@ -203,15 +203,6 @@ namespace Icebreaker.Services
             {
                 this.telemetryClient.TrackTrace($"Pairs could not be made because there is only 1 user in the team");
             }
-
-// If an odd number of users, randomly select then append one user to make an even list 
-if (users.Count % 2 != 0)
-{
-var random = new Random().Next(1, users.Count);
-users.Add(users[random]);
-}
-			
-			
 			
             this.Randomize(users);
             LinkedList<ChannelAccount> queue = new LinkedList<ChannelAccount>(users);
