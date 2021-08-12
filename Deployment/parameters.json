@@ -8,7 +8,7 @@
     "Description": "Id of the tenant to deploy to (If you are not sure how to get Tenant ID, please check Azure Active Directory in Azure Portal. Under Manage, click Properties. The tenant ID is shown in the Directory ID box). e.g 98f3ece2-3a5a-428b-aa4f-4c41b3f6eef0. Tenant ID is also in the \"Overview\" section\""
   },
   "resourceGroupName": {
-    "Value": "RG-APP-ICEBREAKER-V9",
+    "Value": "RG-APP-ICEBREAKER-MONTHLY-V10",
     "Description": "Resource Group"
   },
   "location": {
